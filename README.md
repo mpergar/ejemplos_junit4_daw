@@ -1,7 +1,5 @@
 # ejemplos_JUnit4 by mpergar (IES Vega de Mijas -DAW)
 
-Git hub repository for the free Udemy course : 
-[https://www.udemy.com/junit-tutorial-for-beginners-with-java-examples/](https://www.udemy.com/junit-tutorial-for-beginners-with-java-examples/)
 
 
 ## Get started with Junit
